@@ -4,8 +4,8 @@ Joe Douglas
 
 gpa_evaluation.py
 
-This purpose of this app is to evaluate a student's GPA to determine if they will make //
-Honor Roll or Dean's List. 
+The purpose of this app is to evaluate a student's  //
+GPA to determine if they will make Honor Roll or Dean's List. //
 
 """
 
