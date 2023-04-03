@@ -32,9 +32,7 @@ while True:
     elif gpa >= 3.25 and gpa < 3.5:
         print(full_name, "has made the Honor Roll")        
         #test for Honor Roll
-
+ 
     else:
         print(full_name, "has not made Honor Roll or Dean's List yet")      
         #test for gpa < 3.25
-
-    break
